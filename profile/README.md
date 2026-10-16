@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://footalytics.farvor.com"><img src="https://footalytics.farvor.com/og.png" alt="Footalytics – AI football match predictions" width="640"></a>
+  <a href="https://footalytics.farvor.com"><picture><source media="(prefers-color-scheme: dark)" srcset="footalytics-lockup.png"><img src="footalytics-lockup-light.png" alt="Footalytics" width="420"></picture></a>
 </p>
 
 # Footalytics – AI football predictions you can chat with
@@ -8,7 +8,7 @@
 
 👉 **Try it free (limited-time beta): [footalytics.farvor.com](https://footalytics.farvor.com)**
 
-[Website](https://footalytics.farvor.com) · [Accuracy tracking](https://footalytics.farvor.com/accuracy) · [Methodology](https://footalytics.farvor.com/methodology) · [中文](https://footalytics.farvor.com/?lang=zh)
+[Website](https://footalytics.farvor.com) · [Accuracy tracking](https://footalytics.farvor.com/accuracy) · [Methodology](https://footalytics.farvor.com/methodology) · [Leagues](https://footalytics.farvor.com/leagues) · [中文](https://footalytics.farvor.com/?lang=zh)
 
 ## What you can ask
 
@@ -28,7 +28,20 @@
 
 ## Leagues
 
-Premier League, La Liga, Bundesliga, Serie A, Ligue 1, UEFA Champions League and other European competitions, plus the Saudi Pro League, MLS, Liga MX, Brasileirão, J1 League and more.
+Upcoming fixtures and one-click AI predictions:
+
+| League | English | 中文 |
+|---|---|---|
+| Premier League | [Premier League predictions](https://footalytics.farvor.com/leagues/premier-league) | [英超比赛预测](https://footalytics.farvor.com/leagues/premier-league?lang=zh) |
+| La Liga | [La Liga predictions](https://footalytics.farvor.com/leagues/la-liga) | [西甲比赛预测](https://footalytics.farvor.com/leagues/la-liga?lang=zh) |
+| Bundesliga | [Bundesliga predictions](https://footalytics.farvor.com/leagues/bundesliga) | [德甲比赛预测](https://footalytics.farvor.com/leagues/bundesliga?lang=zh) |
+| Serie A | [Serie A predictions](https://footalytics.farvor.com/leagues/serie-a) | [意甲比赛预测](https://footalytics.farvor.com/leagues/serie-a?lang=zh) |
+| Ligue 1 | [Ligue 1 predictions](https://footalytics.farvor.com/leagues/ligue-1) | [法甲比赛预测](https://footalytics.farvor.com/leagues/ligue-1?lang=zh) |
+| Champions League | [Champions League predictions](https://footalytics.farvor.com/leagues/champions-league) | [欧冠比赛预测](https://footalytics.farvor.com/leagues/champions-league?lang=zh) |
+
+All leagues: [footalytics.farvor.com/leagues](https://footalytics.farvor.com/leagues) · [全部联赛](https://footalytics.farvor.com/leagues?lang=zh)
+
+Also covered in chat: other European competitions, the Saudi Pro League, MLS, Liga MX, Brasileirão, J1 League and more.
 
 ## 中文简介
 
